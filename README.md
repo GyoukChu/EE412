@@ -1,2 +1,3 @@
 # EE412
- Big Data Analysis
+ Assignments for EE412 Big Data Analysis course by Prof. Euijong Whang  
+ 
